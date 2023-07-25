@@ -1,0 +1,18 @@
+#gameboard{
+ border: 1px solid black;
+}
+
+#gamecontainer{
+    text-align: center;
+}
+
+#score{
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#reset{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    box-shadow: 1px 1px 1px 1px black;
+}
