@@ -1,3 +1,5 @@
+//THIS IS A JS FILE FOR SNAKE GAME
+
 const gameboard = document.querySelector("#gameboard");
 const context = gameboard.getContext("2d");
 const scoreText = document.querySelector("#scoretext");
